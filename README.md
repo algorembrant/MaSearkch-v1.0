@@ -2,6 +2,8 @@
 
 A real-time manhwa search engine that aggregates results from multiple platforms with a beautiful galaxy-themed pixel shark UI.
 
+<img width="1261" height="609" alt="image" src="https://github.com/user-attachments/assets/cc97ff9f-f9d9-463a-8801-11d92092b6d0" />
+
 ## Features
 
 - 🔍 **Real-time Search**: Fetches live data from multiple manhwa platforms
