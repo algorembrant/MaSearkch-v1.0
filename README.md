@@ -1,4 +1,4 @@
-# 🦈 Manhwa Search Aggregator
+# 🦈 Manhwa Searkch Aggregator
 
 A real-time manhwa search engine that aggregates results from multiple platforms with a beautiful galaxy-themed pixel shark UI.
 
